@@ -1,4 +1,5 @@
 import ButtonGradient from './assets/svg/ButtonGradient';
+import Benefits from './Components/Benefits.jsx';
 import Header from './Components/Header.jsx';
 import Hero from './Components/Hero.jsx';
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <div className='pt-[4.75rem] lg:[5.25rem] overflow-hidden '>
         <Header />
         <Hero />
+        <Benefits />
     </div>
       <ButtonGradient />
     </>
