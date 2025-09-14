@@ -1,5 +1,6 @@
 import ButtonGradient from './assets/svg/ButtonGradient';
 import Benefits from './Components/Benefits.jsx';
+import Collaboration from './Components/Collaboration.jsx';
 import Header from './Components/Header.jsx';
 import Hero from './Components/Hero.jsx';
 function App() {
@@ -11,6 +12,7 @@ function App() {
         <Header />
         <Hero />
         <Benefits />
+        <Collaboration />
     </div>
       <ButtonGradient />
     </>
