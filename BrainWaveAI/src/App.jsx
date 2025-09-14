@@ -1,5 +1,6 @@
 import ButtonGradient from './assets/svg/ButtonGradient';
 import Header from './Components/Header.jsx';
+import Hero from './Components/Hero.jsx';
 function App() {
 
   return (
@@ -7,6 +8,7 @@ function App() {
 
     <div className='pt-[4.75rem] lg:[5.25rem] overflow-hidden '>
         <Header />
+        <Hero />
     </div>
       <ButtonGradient />
     </>
