@@ -4,6 +4,7 @@ import Collaboration from './Components/Collaboration.jsx';
 import Header from './Components/Header.jsx';
 import Hero from './Components/Hero.jsx';
 import Pricing from './Components/Pricing.jsx';
+import Roadmap from './Components/Roadmap.jsx';
 import Services from './Components/Services.jsx';
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <Collaboration />
         <Services />
         <Pricing />
+        <Roadmap />
     </div>
       <ButtonGradient />
     </>
