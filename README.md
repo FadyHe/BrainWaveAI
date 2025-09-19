@@ -1,6 +1,6 @@
 # Brainwave
 
-[![Brainwave](./BrainWaveAI/Screenshot20250919143937.png)](brainwave-ai.surge.sh/)
+[![Brainwave](BrainWaveAI/Screenshot 2025-09-19 143937.png)](brainwave-ai.surge.sh/)
 
 **Brainwave** is a Next.js-powered website designed to help users chat smarter, not harder. With BrainwaveCurve, the landing page for Brainwave, you can explore the full potential of AI chatting. Unleash the power of AI to enhance your productivity. Brainwave is an open AI chat app crafted to boost your efficiency and help you achieve more with advanced AI technology.
 
